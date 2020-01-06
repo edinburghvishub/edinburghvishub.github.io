@@ -1,4 +1,4 @@
-# The visHub?
+# The visHub
 
 The VisHub will be a University-wide hub for data visualization display and interaction hardware to support research across the university, especially early career researchers (ECRs). The equipment will be purchased during 2019, depending on demand and potential for the most impact. The funding is coming from a major capital grant to support the purchase of advanced tools for data visualization that has been received by the College of Science and Engineering.
 

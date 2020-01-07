@@ -11,7 +11,7 @@ Immersive visualization involves the use of immersive technolgy such as virtual 
 
 ### Mixed Reality Meta Headset
 
-<img style="float: right; width=200px" src="figures/meta.jpg.jpg">
+<img style="float: right; width=200px" src="figures/meta.jpg">
 The Meta Head-mounted display provides for stereoscopic vision, while being tethered to the computer. Calculations are performed on strong GPU hardware. Stronger graphics cards give you more performance. The field of view reasonable large (much larger than HoloLens). Good resolutions. Slow movements without lag. Interaction through simple hand-tracking. Integration possible with Leap. Special portable computer available for full mobile.
 
 No beacons for tracking required. Environmental tracking OK but not great

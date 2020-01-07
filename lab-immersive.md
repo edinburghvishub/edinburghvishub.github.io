@@ -2,10 +2,10 @@
 
 Immersive visualization involves the use of immersive technolgy such as virtual reality (VR), augmented reality (AR) or mixed reality (MR) 
 
-__AR__—Augmented Reality: Blending virtual content into the real world
-__VR__—Virtual Reality: Complete immersion in virtual world, stereoscopic.
-__MR__—Mixed Reality: Augmented reality offering stereoscopy and environment tracking
-__XR__—Extended reality: umbrella term for virtual-reality combined environments and human-machine interactions
+*__AR__—Augmented Reality: Blending virtual content into the real world
+*__VR__—Virtual Reality: Complete immersion in virtual world, stereoscopic.
+*__MR__—Mixed Reality: Augmented reality offering stereoscopy and environment tracking
+*__XR__—Extended reality: umbrella term for virtual-reality combined environments and human-machine interactions
 
 ## Equipment
 
@@ -20,10 +20,9 @@ __Update:__ Unfortunately, as of early 2019, Meta has stopped working as a compa
 
 ### Magic Leap 
 
-![](figures/meagic-leap.png width=200px)
-Magic Leap is is similar to HoloLens, but more performant with a larger field of view. Environment tracking is good. Its ~$2200 in the developer edition.
+| ![](figures/meagic-leap.png width=200px) |  Magic Leap is is similar to HoloLens, but more performant with a larger field of view. Environment tracking is good. Its ~$2200 in the developer edition.
 
-https://www.magicleap.com
+[https://www.magicleap.com]
 
 ### HTC Vive
 

@@ -11,7 +11,7 @@ Immersive visualization involves the use of immersive technolgy such as virtual 
 
 ### Mixed Reality Meta Headset
 
-![](figures/meta.jpg)
+<img style="float: right; width=200px" src="figures/meta.jpg.jpg">
 The Meta Head-mounted display provides for stereoscopic vision, while being tethered to the computer. Calculations are performed on strong GPU hardware. Stronger graphics cards give you more performance. The field of view reasonable large (much larger than HoloLens). Good resolutions. Slow movements without lag. Interaction through simple hand-tracking. Integration possible with Leap. Special portable computer available for full mobile.
 
 No beacons for tracking required. Environmental tracking OK but not great
@@ -19,21 +19,22 @@ No beacons for tracking required. Environmental tracking OK but not great
 __Update:__ Unfortunately, as of early 2019, Meta has stopped working as a company however, the device is still present and working well.
 
 ### Magic Leap 
-| --- | --- |
-| ![](figures/magic-leap.png) |  Magic Leap is is similar to HoloLens, but more performant with a larger field of view. Environment tracking is good. Its ~$2200 in the developer edition.
+
+<img style="float: right; width=200px" src="figures/magic-leap.jpg">
+Magic Leap is is similar to HoloLens, but more performant with a larger field of view. Environment tracking is good. Its ~$2200 in the developer edition.
 
 [https://www.magicleap.com]
 
 ### HTC Vive
 
-![](figures/htcvive.jpg width=200px)
+<img style="float: right; width=200px" src="figures/htcvive.png">
 Stationary head-mounted display. Tethered to high-end graphics card. Requires two beacons for tracking (very stable). Provides ~2x2meters of actionable space. Controllers for each hand for easy interaction with virtual content. Hand tracking possible through, e.g., leap motion.
 
 Price: $600-1,500 + High-end Graphics Card (~$1,000) + PC (Nov 2018).
 
 ### Hololens
 
-![](figures/hololens.png)
+<img style="float: right; width=200px" src="figures/hololens.png">
 Head-mounted display for stereoscopic vision. Entirely mobile with environment tracking. Calculations performed on mounted microprocessor. Tethering with computer possible, but performance much slower than with high-end graphics cards and MetaVision. Field of view fairly small. Resolution OK. Development on all platforms (Mac, Linux, Win, ..). Deployment through Windows machines only.
 
 Price: $3,000 headset only (Nov 2017)

@@ -2,3 +2,6 @@ theme: jekyll-theme-minimal
 title: "Edinburgh VisHub"
 logo: "figures/walls.png"
 description: "A Collaborative Data Visualisation Space for Interdisciplinary Research, Teaching, and Public Engagement"
+relative_links:
+  enabled: true
+  collections: true

@@ -1,4 +1,4 @@
-# The visHub
+# The VisHub
 
 The VisHub will be a University-wide hub for data visualization equipment, including display and interaction hardware to support research across the university. Our mission is to support especially early career researchers (ECRs). The equipment will be purchased during 2019 and 2020, depending on demand and potential for the most impact. The funding is coming from a capital grant to support the purchase of advanced tools for data visualization that has been received by the College of Science and Engineering at the University of Edinburgh.
 

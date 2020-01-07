@@ -20,7 +20,7 @@ __Update:__ Unfortunately, as of early 2019, Meta has stopped working as a compa
 
 ### Magic Leap 
 
-<img style="float: right; width=200px" src="figures/magic-leap.jpg">
+<img style="float: right; width=200px" src="figures/magic-leap.png">
 Magic Leap is is similar to HoloLens, but more performant with a larger field of view. Environment tracking is good. Its ~$2200 in the developer edition.
 
 [https://www.magicleap.com]

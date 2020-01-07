@@ -19,8 +19,8 @@ No beacons for tracking required. Environmental tracking OK but not great
 __Update:__ Unfortunately, as of early 2019, Meta has stopped working as a company however, the device is still present and working well.
 
 ### Magic Leap 
-
-| ![](figures/meagic-leap.png) |  Magic Leap is is similar to HoloLens, but more performant with a larger field of view. Environment tracking is good. Its ~$2200 in the developer edition.
+| --- | --- |
+| ![](figures/magic-leap.png) |  Magic Leap is is similar to HoloLens, but more performant with a larger field of view. Environment tracking is good. Its ~$2200 in the developer edition.
 
 [https://www.magicleap.com]
 

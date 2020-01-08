@@ -3,7 +3,7 @@
 
 ### Microsoft Surface Book 2
 
-13'' and 15'' laptop with detachable display and pen+touch surface. 
+13'' and 15'' laptop with detachable display and pen+touch surface. Ready for touch applications and AR.x
 
 Specs: 
 * 1060 NVIDIA GeForce GTX graphics

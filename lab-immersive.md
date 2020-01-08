@@ -25,6 +25,18 @@ Magic Leap is is similar to HoloLens, but more performant with a larger field of
 
 [https://www.magicleap.com]
 
+### HP Reverb
+
+<img style="float: right; width: 200px; margin-left: 10px;" src="figures/hp-reverb.jpg">
+[https://store.hp.com/UKStore/Merch/Offer.aspx?p=b-hp-reverb-vr-headset](https://store.hp.com/UKStore/Merch/Offer.aspx?p=b-hp-reverb-vr-headset)
+
+### Zed Mini 2
+
+<img style="float: right; width: 200px; margin-left: 10px;" src="figures/zed-2-front.jpg">
+
+[https://www.stereolabs.com/zed-2](https://www.stereolabs.com/zed-2)
+
+
 ### HTC Vive
 
 <img style="float: right; width: 200px; margin-left: 10px;" src="figures/htcvive.png">

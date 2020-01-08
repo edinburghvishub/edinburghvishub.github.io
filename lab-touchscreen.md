@@ -9,12 +9,11 @@
 * Intel® UHD Graphics 620
 * Microsoft Surface Hub 2 Pen (active)
 
-
 [Link](https://www.microsoft.com/en-gb/surface/business/surface-hub-2)
 
 ### Microsoft Surface Studio 2
 
-<img style="float: right; width: 200px; margin-left: 10px;" src="figures/ms-studio-2.png">
+<img style="float: right; width: 200px; margin-left: 10px;" src="figures/ms-studio-2.jpg">
 28'' pen and touch display. Movable from screen-mode (vertical screen) to studio-mode (almost horizontal). Great for skeching, large screen visualizaion, collaborative touch applications.
 
 * 28'' PixelSense™ Display with 4500 x 3000 (192 PPI) resolution, 3:2 aspect ratio, and 10 point multi-touch.

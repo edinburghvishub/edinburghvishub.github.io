@@ -28,11 +28,15 @@ Magic Leap is is similar to HoloLens, but more performant with a larger field of
 ### HP Reverb
 
 <img style="float: right; width: 200px; margin-left: 10px;" src="figures/hp-reverb.jpg">
-[https://store.hp.com/UKStore/Merch/Offer.aspx?p=b-hp-reverb-vr-headset](https://store.hp.com/UKStore/Merch/Offer.aspx?p=b-hp-reverb-vr-headset)
+High-resolution VR head-set with controllers. Requires tethering to machine with powerful graphics card.
+
+[Link](https://store.hp.com/UKStore/Merch/Offer.aspx?p=b-hp-reverb-vr-headset)
 
 ### Zed Mini 2
 
+
 <img style="float: right; width: 200px; margin-left: 10px;" src="figures/zed-2-front.jpg">
+Stereo cameras for VR head-sets, including depth sensing, dynamic space mapping.
 
 [https://www.stereolabs.com/zed-2](https://www.stereolabs.com/zed-2)
 
@@ -51,9 +55,6 @@ Head-mounted display for stereoscopic vision. Entirely mobile with environment t
 
 Price: $3,000 headset only (Nov 2017)
 
-### HP Reverse + Z-mini
-
-pending
 
 ## Development Resources
 
